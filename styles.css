@@ -1,1 +1,37 @@
 /* your code */
+
+
+.pass{
+    background-color: green;
+}
+.fail{
+      background-color: red;
+}
+h1{
+    color: red;
+}
+tr{
+    text-align: center;
+    font-size: 30px ;
+    font-style: italic;
+    font-style:oblique;
+    
+}
+th{
+    font-size: 25px;
+    color: rgb(206, 233, 227);
+    font-style: normal;
+}
+table{
+    position: absolute;
+    left: 19%;
+    width: 60%;
+    height: 500px;
+
+    border-spacing: 10px;
+    background: rgb(27, 89, 182);
+    
+}
+
+
+
